@@ -7,9 +7,9 @@ Real-Time Messaging: Instant messaging with live updates.
 Contact Management: Add, remove, and organize contacts.
 Group Chats: Create and manage group conversations.
 
-Technologies Used
+Frameworks Used
 
-For the Frontend: React Native/ JavaScript
+For the Frontend: React Native / JavaScript
 For the Backend: Spring Boot (Java)
 Database: MongoDb
 Authentication: JWT-based authentication
